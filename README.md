@@ -1,1 +1,1 @@
-The code of paper Anisotropic Crowd Simulation System.
+The code of paper Introducing Anisotropic Fields for Enhanced Diversity in Crowd Simulation.
